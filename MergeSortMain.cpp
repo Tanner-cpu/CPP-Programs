@@ -1,7 +1,8 @@
 // Tanner Boswell
 // MergeSort
 
-// This program reads in the words from a data file and puts them into an array of strings. It then mergesorts those words alphabetically and prints the sorted list in a chart of five columns.
+// This program reads in the words from a data file and puts them into an array of strings. 
+// It then mergesorts those words alphabetically and prints the sorted list in a chart of five columns.
 
 #include <fstream>
 #include <iostream>
